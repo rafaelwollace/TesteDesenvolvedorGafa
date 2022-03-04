@@ -4,7 +4,7 @@
  
  1) TENHA O COMPOSER INSTALADO
  2) ABRA O PROMPT COMANDO
- 3) FAÇA O GIT CLONE DO PROJETO ( GIT CLONE https://github.com/rafaelwollace/TesteDesenvolvedorGafa.git )
+ 3) FAÇA O GIT CLONE DO PROJETO ( git clone https://github.com/rafaelwollace/TesteDesenvolvedorGafa.git )
  4) ENTRE NA PASTA DO PROJETO E DIGITE  ( NPM INSTALL )
  5) DIGITE copy .env.example .env
  6) DIGITE php artisan key:generate
